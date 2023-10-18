@@ -13,7 +13,7 @@ This project is long arithmetic realization for unsigned integer. According to t
 3. Arithmetic operations:
     ADD
     SUB
-    MUL - works only big int and small int mulitply. Two int multiply works incorrect 
+    MUL - works only big int and small int mulitply. Two big int multiply works incorrect 
 Operaitons (2) and (3) was realized via native operation overloading.
 Operations that have not yet been implemented:
     MOD
